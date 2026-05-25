@@ -1,0 +1,7 @@
+project_id = "ewehrdcminnfodlpnrlv"
+
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.ai-site-generator]
+verify_jwt = true
